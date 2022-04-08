@@ -31,7 +31,7 @@ $ cd desafio-reactjs-node/backend
 $ yarn install
 
 # Depois é preciso dar um start no backend
-$ yarn dev
+$ yarn start
 
 # running on port 3333
 ```
