@@ -17,9 +17,6 @@ $ git clone https://github.com/raicleysantana/desafio-reactjs-node
 
 # Navegue até o diretório
 $ cd desafio-reactjs-node
-
-# Abrir no VSCode
-$ code .
 ```
 
 Na linha de comando **como administrador**:
